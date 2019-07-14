@@ -29,8 +29,8 @@ The tenis environment requires 2 agent to be trained with a Multi-Agent Reinforc
 Both the actor and the critic have the same internal hidden layer values in this project, however the output layers differ
 
 - Input: State Size = 8
-- Hidden Layer 1 = 256
-- Hidden Layer 2 = 128
+- Hidden Layer 1 = 500
+- Hidden Layer 2 = 500
 
 - Output layer Actor: Action Size = 2
 (Maps the states to actions)
